@@ -1,0 +1,10 @@
+ro.boot.region=JPN
+ro.boot.product.hardware.sku=JPN
+ro.boot.hardware.sku=JPN
+
+# Below is from /odm/etc/build_JPN.prop.
+ro.odm.build.fingerprint=Nothing/AsteroidsJPN/Asteroids:14/UKQ1.241011.001/2507171803:user/release-keys
+ro.vendor.build.fingerprint=Nothing/AsteroidsJPN/Asteroids:14/UKQ1.241011.001/2507171803:user/release-keys
+ro.product.odm.name=AsteroidsJPN
+ro.product.vendor.name=AsteroidsJPN
+ro.product.odm.model=A059

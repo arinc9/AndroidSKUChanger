@@ -1,0 +1,6 @@
+id=com.arinc9.skuchanger
+name=Android SKU Changer
+version=v1.0
+versionCode=1
+author=Chester A. Unal
+description=Magisk module to change the Stock Keeping Unit (SKU) of Android devices
